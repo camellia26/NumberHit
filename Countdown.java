@@ -18,6 +18,8 @@ class Countdown{
         x--;
     }
     
+    System.out.println("Finish.");
+
   }
 
 }
