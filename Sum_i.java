@@ -16,12 +16,12 @@ class Sum_i{
             int sum = 0;
             int i = 1;
 
-            while(i <= n);{
+            while(i <= n){
                 sum += i;
                 i++;
             }
         
-        System.out.println("The sum from 1 to" + n + "is" + sum);
+        System.out.println("The sum from 1 to" + n + "is" + sum + ".");
 
     }
 }
