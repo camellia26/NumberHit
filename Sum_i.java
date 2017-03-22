@@ -1,4 +1,4 @@
-import.java.util.Scanner;
+import java.util.Scanner;
 
 class Sum_i{
 
@@ -6,7 +6,7 @@ class Sum_i{
     
         Scanner stdIn = new Scanner(System.in);
 
-        System.out.println("Sum up from 1 to n.")
+        System.out.println("Sum up from 1 to n.");
             int n;
             do{
                 System.out.print("n is :");
